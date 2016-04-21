@@ -1,5 +1,6 @@
 # Sitecore.Support.107294
 
+A custom data in the `FormsAuthenticationTicket.UserData` may conflict with the `User.RuntimeSettings`. 
 
 ## Main
 
